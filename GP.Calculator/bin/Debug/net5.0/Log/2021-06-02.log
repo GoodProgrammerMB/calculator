@@ -1,0 +1,2 @@
+ERROR2021-06-02 21:22:18 – System.NullReferenceException: Object reference not set to an instance of an object.
+   at GP.Calculator.Program.Main(String[] args) in D:\PROJEKTY\GP.Calculator\GP.Calculator\Program.cs:line 30
